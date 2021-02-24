@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-//----------------------------------------------------------------------------//
+
 /-------------------------------Dependencies-----------------------------------/
 
 Dependencies for both server and react's app are inside "Scheduler/package.json"'. 
@@ -34,7 +34,7 @@ So, use 'npm install' in 'Scheduler-main' folder to install them.
 
 
 
-//----------------------------------------------------------------------------//
+
 /---------------------------------Back-End-------------------------------------/
 
 Back-End's creation with:
@@ -103,7 +103,7 @@ Method UPDATE : url: http://localhost:8000/employees/:id/update
 
 
 
-//-------------------------------------------------------------------------------//
+
 /--------------------------------Front-End----------------------------------------/
 Front-End's creation with:
 ReactJS + Materialize-css framework
@@ -128,7 +128,7 @@ overflow problems that you can locate at skill's cards and inside input fields (
 
 
 
-//-------------------------------------------------------------------------------//
+
 /------------------------------How to run?----------------------------------------/
 
 Server: 
@@ -142,5 +142,5 @@ Open terminal in 'Scheduler' folder and use: $npm run start
 
 
 
-//-------------------------------------------------------------------------------//
-/-------------------------------Thoughts--=---------------------------------------/
+
+/-------------------------------Thoughts------------------------------------------/
