@@ -107,15 +107,16 @@ Method UPDATE : url: http://localhost:8000/employees/:id/update
 Front-End's creation with:
 ReactJS + Materialize-css framework
 
-Most of skill's Component are sfc components (+ hooks, Modern React xD). On the contrary, the branches that were created for the implementation of the employees, were made without hooks (old School state XD).
+Most of skill's Components are sfc components (+ hooks, Modern React xD). On the contrary, the branches 
+that were created for the implementation of the employees, were made without hooks (old School state XD).
 
 
     
 Issue:
-At this time, i"m learning how to use Material-UI! But, for the requirements of
-this Project i did not used Material-UI because i"m not that familiar with it yet. Instead 
-i used Materialize-css framework. That results to occur some problems in the styling, like the
-overflow problems that you can locate at skill's cards and inside input fields (p tags overflows ..).
+Currently, i"m learning how to use Material-UI! But, for the requirements of
+this Project, i did not used Material-UI because i"m not that yet.. Instead, 
+i used Materialize-css framework. That results to occur some problems in styling, like the
+overflow that we can detect at skill's cards and inside input fields (p tags overflows ..).
 
 //-----------------------------------------------------------------------------------//
 
