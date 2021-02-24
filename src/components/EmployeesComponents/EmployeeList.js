@@ -191,10 +191,10 @@ class EmployeeList extends Component {
             { this.state.employees && !this.state.error && 
                 <div className="row">
                     <div className="row">
-                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByLastnameAscending}>Order by lastname | ascending </button> }
-                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByLastnameDescending}> Order by lastname | descending</button> }  
-                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByHiringDateAscending}>Order by hiringDate | ascending </button> }
-                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByHiringDateDescending}> Order by hiringDate | descending</button> }  
+                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByLastnameAscending}>Order by lastname | ascending<i className="material-icons">arrow_downward</i></button> }
+                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByLastnameDescending}> Order by lastname | descending<i className="material-icons">arrow_upward</i></button> }  
+                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByHiringDateAscending}>Order by hiringDate | ascending<i className="material-icons">arrow_downward</i> </button> }
+                        {   <button className="waves-effect waves-light btn col s4 offset-s1" onClick ={this.handleOrderByHiringDateDescending}> Order by hiringDate | descending<i className="material-icons">arrow_upward</i></button> }  
                     </div>
                 <div className="row">
                     <div className="input-field col s8 offset-s2 l6">                                          

@@ -107,16 +107,16 @@ Method UPDATE : url: http://localhost:8000/employees/:id/update
 Front-End's creation with:
 ReactJS + Materialize-css framework
 
-Most of skill's Components are sfc components (+ hooks, Modern React xD). On the contrary, the branches 
-that were created for the implementation of the employees, were made without hooks (old School state XD).
-
+Most of skill's Components are sfc components (+ hooks, Modern React xD). On the contrary, the branches that were created for the implementation of the employees, were made without hooks (old
+School state).
 
     
 Issue:
 Currently, i"m learning how to use Material-UI! But, for the requirements of
-this Project, i did not used Material-UI because i"m not that yet.. Instead, 
+this Project, i did not used Material-UI because i"m not that familiar yet.. Instead, 
 i used Materialize-css framework. That results to occur some problems in styling, like the
 overflow that we can detect at skill's cards and inside input fields (p tags overflows ..).
+
 
 //-----------------------------------------------------------------------------------//
 
@@ -140,14 +140,14 @@ Open terminal in 'Scheduler' folder and use: $npm run start
 
 /-------------------------------Thoughts-----------------------------------------------/
 
-Αρχικά, θα ήθελα να σας ευχαριστήσω για την ευκαιρία που μου δόθηκε σε σχέση με την συμμετοχή
-μου στην εν λόγο πρόκληση, μιας και όχι μόνο έμαθα από αυτήν, αλλά μου πρόσφερε και μια ευχάριστη 
-και δημιουργική βδομάδα! Ακόμη, η διαδικασία διεκπεραίωσης αυτής της εργασίας, μου έδωσε την ευκαιρία 
+Αρχικά, θα ήθελα να σας ευχαριστήσω για την ευκαιρία που μου δόθηκε, σε σχέση με την συμμετοχή
+μου στην εν λόγο πρόκληση διότι, όχι μόνο έμαθα από αυτήν, αλλά μου πρόσφερε μια ευχάριστη και 
+δημιουργική εβδομάδα! Ακόμη, η διαδικασία διεκπεραίωσης αυτής της εργασίας, μου έδωσε την ευκαιρία 
 να συνδυάσω και να κατανοήσω περαιτέρω ορισμένες έννοιες που συνδέονται με το development. Τέλος, με
 καθοδήγησε στο να καταλάβω πια πρέπει να είναι τα επόμενα κομμάτια με τα οποίο πρέπει να ασχοληθώ, 
-για να εξελίξω στο σύνολο της δυνατότητες μου ως προγραμματιστής.
+για να εξελίξω το σύνολο των δυνατοτήτων μου ως προγραμματιστής.
 
-Αναμένω για τις δικές συμβουλές και υποδείξεις.
+Αναμένω για τις δικές σας συμβουλές και υποδείξεις.
 Ελπίζω να τα πούμε σύντομα!
 
 Με εκτίμηση,

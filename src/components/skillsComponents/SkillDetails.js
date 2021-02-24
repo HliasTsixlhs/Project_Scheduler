@@ -31,8 +31,6 @@ const SkillDetails = () => {
                             <div class="card-content white-text center">  
                             <h4>Skill's name:</h4>  
                                 <span class="card-title">{skill.name}</span>
-                                <h5>Skill's description:</h5> 
-                                 <span>{skill.description}</span>
                             </div>
                         <div class="card-action white-text center">
                             <h5>Skill's description:</h5> 
